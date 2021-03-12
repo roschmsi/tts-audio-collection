@@ -14,7 +14,7 @@
     </tr>
 
     <tr class="spaceUnder">
-        <td>Markus Söder</td>
+        <td>Markus Söder rowspan="3"</td>
         <td>Hallo, ich bin eine neue Stimme.</td>
         <td>
             <audio controls="">
@@ -37,7 +37,6 @@
     </tr>
 
     <tr class="spaceUnder">
-        <td></td>
         <td>Hallo, ich bin eine neue Stimme.</td>
         <td>
             <audio controls="">
@@ -60,7 +59,6 @@
     </tr>
 
     <tr class="spaceUnder">
-        <td></td>
         <td>Hallo, ich bin eine neue Stimme.</td>
         <td>
             <audio controls="">
