@@ -5,8 +5,8 @@
     <tbody>
 
     <tr class="spaceUnder">
-        <th width="100"><font color="gray"><i>Speaker</i></font></th>
-        <th width="100"><font color="gray"><i>Text</i></font></th>
+        <th><b>Speaker</b></th>
+        <th><b>Text</b></th>
         <th><b>Pipeline 1</b></th>
         <th><b>Pipeline 2 Long</b></th>
         <th><b>Pipeline 2 Short</b></th>
@@ -153,8 +153,8 @@
 <table>
     <tbody>
     <tr>
-        <th width="300"><b>Speaker</b></th>
-        <th width="300"><b>Text</b></th>
+        <th><b>Speaker</b></th>
+        <th><b>Text</b></th>
         <th><b>Full dataset</b></th>
         <th><b>Low articulation 90 %</b></th>
         <th><b>Low articulation 75 %</b></th>
