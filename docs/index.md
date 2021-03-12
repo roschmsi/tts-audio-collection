@@ -28,11 +28,11 @@ table.d {
     <tbody>
 
     <tr class="spaceUnder">
-        <th width="200%"><b>Speaker</b></th>
-        <th><b>Text</b></th>
-        <th><b>Pipeline 1</b></th>
-        <th><b>Pipeline 2 Long</b></th>
-        <th><b>Pipeline 2 Short</b></th>
+        <th width="10%"><b>Speaker</b></th>
+        <th width="30%"><b>Text</b></th>
+        <th width="20%"><b>Pipeline 1</b></th>
+        <th width="20%"><b>Pipeline 2 Long</b></th>
+        <th width="20%"><b>Pipeline 2 Short</b></th>
     </tr>
 
     <tr class="spaceUnder">
