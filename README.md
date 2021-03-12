@@ -1,6 +1,6 @@
 # tts_audio_collection
 
-<table border="0">
+<table border="1">
  <tr>
   <audio controls>
    <source src="TestSentence_0.wav" type="audio/wav">
