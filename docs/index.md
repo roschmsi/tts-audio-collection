@@ -28,7 +28,7 @@ table.d {
     <tbody>
 
     <tr class="spaceUnder">
-        <th width="300"><b>Speaker</b></th>
+        <th width="200%"><b>Speaker</b></th>
         <th><b>Text</b></th>
         <th><b>Pipeline 1</b></th>
         <th><b>Pipeline 2 Long</b></th>
