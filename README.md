@@ -4,9 +4,9 @@
 
     <tr class="spaceUnder">
         <td width="14.2%"><font color="gray"><i>Speaker</i></font></td>
-        <td width="14.2%"><b>Mixture</b></td>
-        <td width="14.2%"><b>Wavenet</b></td>
-        <td width="14.2%"><b>Wavenet</b></td>
+        <td width="14.2%"><b>Pipeline 1</b></td>
+        <td width="14.2%"><b>Pipeline 2 Long</b></td>
+        <td width="14.2%"><b>Pipeline 2 Short</b></td>
 
     </tr>
 
@@ -31,7 +31,7 @@
             </audio>
         </td>
     </tr>
-    
+
         <tr class="spaceUnder">
         <td>Angela Merkel</td>
         <td>
