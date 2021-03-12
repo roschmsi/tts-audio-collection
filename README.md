@@ -5,8 +5,8 @@
     <tbody>
 
     <tr class="spaceUnder">
-        <th width="100"><font color="gray"><i>Speaker</i></font></th>
-        <th width="100"><font color="gray"><i>Text</i></font></th>
+        <th width="300"><font color="gray"><i>Speaker</i></font></th>
+        <th width="300"><font color="gray"><i>Text</i></font></th>
         <th><b>Pipeline 1</b></th>
         <th><b>Pipeline 2 Long</b></th>
         <th><b>Pipeline 2 Short</b></th>
