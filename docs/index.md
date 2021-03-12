@@ -1,33 +1,10 @@
-<style>
-
-table.a {
-  table-layout: auto;
-  width: 180px;  
-}
-
-table.b {
-  table-layout: fixed;
-  width: 180px;  
-}
-
-table.c {
-  table-layout: auto;
-  width: 200%;  
-}
-
-table.d {
-  table-layout: fixed;
-  width: 100%;  
-}
-</style>
-
 <h1>Audio Collection</h1>
 
-<table class="d">
+<table>
 
     <tbody>
 
-    <tr class="spaceUnder">
+    <tr>
         <th width="10%"><b>Speaker</b></th>
         <th width="30%"><b>Text</b></th>
         <th width="20%"><b>Pipeline 1</b></th>
