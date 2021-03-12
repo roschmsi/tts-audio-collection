@@ -6,7 +6,7 @@
 
     <tr class="spaceUnder">
         <td width="14.2%"><font color="gray"><i>Speaker</i></font></td>
-        <td width="14.2%"><font color="gray"><i>Text</i></font></td>
+        <td><font color="gray"><i>Text</i></font></td>
         <td width="14.2%"><b>Pipeline 1</b></td>
         <td width="14.2%"><b>Pipeline 2 Long</b></td>
         <td width="14.2%"><b>Pipeline 2 Short</b></td>
@@ -59,7 +59,7 @@
         </td>
     </tr>
 
-        <tr class="spaceUnder">
+    <tr class="spaceUnder">
         <td></td>
         <td>Hallo, ich bin eine neue Stimme.</td>
         <td>
