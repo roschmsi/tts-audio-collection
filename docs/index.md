@@ -1,8 +1,4 @@
 <style>
-table {
-  border-collapse: collapse;
-  border: 1px solid black;
-}
 
 table.a {
   table-layout: auto;
@@ -16,7 +12,7 @@ table.b {
 
 table.c {
   table-layout: auto;
-  width: 100%;  
+  width: 200%;  
 }
 
 table.d {
