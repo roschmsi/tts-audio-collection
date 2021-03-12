@@ -2,9 +2,13 @@
 
 <table border="0">
  <tr>
-    ![soeder](soeder/pipeline_01/TestSentence_0.wav)
+  <audio controls>
+   <source src="soeder/pipeline_01/TestSentence_0.wav" type="audio/wav">
+  </audio> 
  </tr>
  <tr>
-    ![soeder](soeder/pipeline_01/TestSentence_0.wav)
+  <audio controls>
+   <source src="soeder/pipeline_01/TestSentence_0.wav" type="audio/wav">
+  </audio> 
  </tr>
 </table>
