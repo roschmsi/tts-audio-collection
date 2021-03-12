@@ -1,6 +1,6 @@
 <h1>Audio Collection</h1>
 
-<table>
+<table class="fixed">
 
     <tbody>
 
@@ -13,7 +13,7 @@
     </tr>
 
     <tr class="spaceUnder">
-        <td rowspan="3">Markus Söder</td>
+        <td rowspan="3"><b>Markus Söder</b></td>
         <td>Hallo, ich bin eine neue Stimme.</td>
         <td>
             <audio controls="">
@@ -80,7 +80,7 @@
     </tr>
 
     <tr>
-        <td rowspan="3">Markus Söder</td>
+        <td rowspan="3"><b>Angela Merkel</b></td>
         <td>Hallo, ich bin eine neue Stimme.</td>
         <td>
             <audio controls="">
@@ -161,7 +161,7 @@
     </tr>
 
     <tr>
-        <td rowspan="3">Markus Söder</td>
+        <td rowspan="3"><b>Markus Söder</b></td>
         <td>Hallo, ich bin eine neue Stimme.</td>
         <td>
             <audio controls="">
