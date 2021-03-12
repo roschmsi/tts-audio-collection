@@ -23,7 +23,7 @@ table.d {
 
 <h1>Audio Collection</h1>
 
-<table class="c">
+<table class="d">
 
     <tbody>
 
