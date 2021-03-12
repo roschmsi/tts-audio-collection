@@ -12,7 +12,7 @@
         <th width="20%"><b>Pipeline 2 Short</b></th>
     </tr>
 
-    <tr class="spaceUnder">
+    <tr>
         <td rowspan="3"><b>Markus Söder</b></td>
         <td>Hallo, ich bin eine neue Stimme.</td>
         <td>
@@ -35,7 +35,7 @@
         </td>
     </tr>
 
-    <tr class="spaceUnder">
+    <tr>
         <td>Hallo, ich bin eine neue Stimme.</td>
         <td>
             <audio controls="">
@@ -57,7 +57,7 @@
         </td>
     </tr>
 
-    <tr class="spaceUnder">
+    <tr>
         <td>Hallo, ich bin eine neue Stimme.</td>
         <td>
             <audio controls="">
