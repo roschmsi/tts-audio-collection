@@ -5,8 +5,8 @@
     <tbody>
 
     <tr class="spaceUnder">
-        <th width="300"><font color="gray"><i>Speaker</i></font></th>
-        <th width="300"><font color="gray"><i>Text</i></font></th>
+        <th width="100"><font color="gray"><i>Speaker</i></font></th>
+        <th width="100"><font color="gray"><i>Text</i></font></th>
         <th><b>Pipeline 1</b></th>
         <th><b>Pipeline 2 Long</b></th>
         <th><b>Pipeline 2 Short</b></th>
@@ -79,7 +79,7 @@
         </td>
     </tr>
 
-    <tr class="spaceUnder">
+    <tr>
         <td rowspan="3">Markus Söder</td>
         <td>Hallo, ich bin eine neue Stimme.</td>
         <td>
@@ -102,7 +102,7 @@
         </td>
     </tr>
 
-    <tr class="spaceUnder">
+    <tr>
         <td>Hallo, ich bin eine neue Stimme.</td>
         <td>
             <audio controls="">
@@ -124,7 +124,7 @@
         </td>
     </tr>
 
-    <tr class="spaceUnder">
+    <tr>
         <td>Hallo, ich bin eine neue Stimme.</td>
         <td>
             <audio controls="">
@@ -151,18 +151,16 @@
 <h1>Audio Selection</h1>
 
 <table>
-
     <tbody>
-
-    <tr class="spaceUnder">
-        <th width="100"><font color="gray"><i>Speaker</i></font></th>
-        <th width="100"><font color="gray"><i>Text</i></font></th>
+    <tr>
+        <th width="300"><b>Speaker</b></th>
+        <th width="300"><b>Text</b></th>
         <th><b>Full dataset</b></th>
         <th><b>Low articulation 90 %</b></th>
         <th><b>Low articulation 75 %</b></th>
     </tr>
 
-    <tr class="spaceUnder">
+    <tr>
         <td rowspan="3">Markus Söder</td>
         <td>Hallo, ich bin eine neue Stimme.</td>
         <td>
@@ -185,7 +183,7 @@
         </td>
     </tr>
 
-    <tr class="spaceUnder">
+    <tr>
         <td>Hallo, ich bin eine neue Stimme.</td>
         <td>
             <audio controls="">
@@ -207,7 +205,7 @@
         </td>
     </tr>
 
-    <tr class="spaceUnder">
+    <tr>
         <td>Hallo, ich bin eine neue Stimme.</td>
         <td>
             <audio controls="">
