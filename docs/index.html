@@ -1,4 +1,28 @@
-<body>
+<html lang="de">
+<style>
+    .div-1 {
+        background-color: #00008B;
+    }
+
+    .div-2 {
+        background-color: #E1F2F9;
+        padding: 20px;
+    }
+
+    .div-3 {
+        background-color: #FBD603;
+    }
+
+    td.column1 {
+        text-align: center;
+    }
+
+    th.head {
+        font-size: large;
+    }
+</style>
+
+<body class="div-1">
 
 <br>
 
@@ -6,52 +30,31 @@
 
     <br>
 
-    <div class="container">
-        <div class="boxtest_ref">
+    <div class="div-1">
+        <div class="div-2">
 
             <h1><b>Collecting Large-Scale High-Quality Audio Datasets for Text-to-Speech Synthesis</b></h1>
 
             <br>
 
             <h2>Audio Collection</h2>
+            <br>
 
             <table>
 
                 <tbody>
 
                 <tr>
-                    <th width="10%"><b>Speaker</b></th>
-                    <th width="25%"><b>Text</b></th>
-                    <th width="20%"><b>Pipeline 1</b></th>
-                    <th width="20%"><b>Pipeline 2 Long</b></th>
-                    <th width="20%"><b>Pipeline 2 Short</b></th>
+                    <th width="10%" class="head"><b>Speaker</b></th>
+                    <th width="25%" class="head"><b>Text</b></th>
+                    <th width="20%" class="head"><b>Pipeline 1</b></th>
+                    <th width="20%" class="head"><b>Pipeline 2 Long</b></th>
+                    <th width="20%" class="head"><b>Pipeline 2 Short</b></th>
                 </tr>
 
                 <tr>
-                    <td rowspan="3"><b>Markus Söder</b></td>
-                    <td>Hallo, ich bin eine neue Stimme.</td>
-                    <td>
-                        <audio controls="">
-                            <source src="TestSentence_0.wav" type="audio/mpeg">
-                            Your browser does not support the audio element.
-                        </audio>
-                    </td>
-                    <td>
-                        <audio controls="">
-                            <source src="TestSentence_0.wav" type="audio/mpeg">
-                            Your browser does not support the audio element.
-                        </audio>
-                    </td>
-                    <td>
-                        <audio controls="">
-                            <source src="TestSentence_0.wav" type="audio/mpeg">
-                            Your browser does not support the audio element.
-                        </audio>
-                    </td>
-                </tr>
-
-                <tr>
-                    <td>Hallo, ich bin eine neue Stimme.</td>
+                    <td rowspan="3" class="column1"><b>Markus Soeder</b></td>
+                    <td class="column1">Hallo, ich bin eine neue Stimme.</td>
                     <td>
                         <audio controls="">
                             <source src="TestSentence_0.wav" type="audio/mpeg">
@@ -73,7 +76,7 @@
                 </tr>
 
                 <tr>
-                    <td>Hallo, ich bin eine neue Stimme.</td>
+                    <td class="column1">Hallo, ich bin eine neue Stimme.</td>
                     <td>
                         <audio controls="">
                             <source src="TestSentence_0.wav" type="audio/mpeg">
@@ -95,8 +98,7 @@
                 </tr>
 
                 <tr>
-                    <td rowspan="3"><b>Angela Merkel</b></td>
-                    <td>Hallo, ich bin eine neue Stimme.</td>
+                    <td class="column1">Hallo, ich bin eine neue Stimme.</td>
                     <td>
                         <audio controls="">
                             <source src="TestSentence_0.wav" type="audio/mpeg">
@@ -118,7 +120,8 @@
                 </tr>
 
                 <tr>
-                    <td>Hallo, ich bin eine neue Stimme.</td>
+                    <td rowspan="3" class="column1"><b>Angela Merkel</b></td>
+                    <td class="column1">Hallo, ich bin eine neue Stimme.</td>
                     <td>
                         <audio controls="">
                             <source src="TestSentence_0.wav" type="audio/mpeg">
@@ -140,7 +143,29 @@
                 </tr>
 
                 <tr>
-                    <td>Hallo, ich bin eine neue Stimme.</td>
+                    <td class="column1">Hallo, ich bin eine neue Stimme.</td>
+                    <td>
+                        <audio controls="">
+                            <source src="TestSentence_0.wav" type="audio/mpeg">
+                            Your browser does not support the audio element.
+                        </audio>
+                    </td>
+                    <td>
+                        <audio controls="">
+                            <source src="TestSentence_0.wav" type="audio/mpeg">
+                            Your browser does not support the audio element.
+                        </audio>
+                    </td>
+                    <td>
+                        <audio controls="">
+                            <source src="TestSentence_0.wav" type="audio/mpeg">
+                            Your browser does not support the audio element.
+                        </audio>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="column1">Hallo, ich bin eine neue Stimme.</td>
                     <td>
                         <audio controls="">
                             <source src="TestSentence_0.wav" type="audio/mpeg">
@@ -168,41 +193,23 @@
 
             <h2>Audio Selection</h2>
 
+            <br>
+
             <table>
                 <tbody>
                 <tr>
-                    <th><b>Speaker</b></th>
-                    <th><b>Text</b></th>
-                    <th><b>Full dataset</b></th>
-                    <th><b>Low articulation 90 %</b></th>
-                    <th><b>Low articulation 75 %</b></th>
+                    <th width="10%" class="head"><b>Speaker</b></th>
+                    <th width="25%" class="head"><b>Text</b></th>
+                    <th width="20%" class="head"><b>Full dataset</b></th>
+                    <th width="20%" class="head"><b>Low articulation 90 %</b></th>
+                    <th width="20%" class="head"><b>Low articulation 75 %</b></th>
                 </tr>
 
-                <tr>
-                    <td rowspan="3"><b>Markus Söder</b></td>
-                    <td>Hallo, ich bin eine neue Stimme.</td>
-                    <td>
-                        <audio controls="">
-                            <source src="TestSentence_0.wav" type="audio/mpeg">
-                            Your browser does not support the audio element.
-                        </audio>
-                    </td>
-                    <td>
-                        <audio controls="">
-                            <source src="TestSentence_0.wav" type="audio/mpeg">
-                            Your browser does not support the audio element.
-                        </audio>
-                    </td>
-                    <td>
-                        <audio controls="">
-                            <source src="TestSentence_0.wav" type="audio/mpeg">
-                            Your browser does not support the audio element.
-                        </audio>
-                    </td>
-                </tr>
+                <br>
 
                 <tr>
-                    <td>Hallo, ich bin eine neue Stimme.</td>
+                    <td rowspan="3" class="column1"><b>Markus Soeder</b></td>
+                    <td class="column1">Hallo, ich bin eine neue Stimme.</td>
                     <td>
                         <audio controls="">
                             <source src="TestSentence_0.wav" type="audio/mpeg">
@@ -224,7 +231,29 @@
                 </tr>
 
                 <tr>
-                    <td>Hallo, ich bin eine neue Stimme.</td>
+                    <td class="column1">Hallo, ich bin eine neue Stimme.</td>
+                    <td>
+                        <audio controls="">
+                            <source src="TestSentence_0.wav" type="audio/mpeg">
+                            Your browser does not support the audio element.
+                        </audio>
+                    </td>
+                    <td>
+                        <audio controls="">
+                            <source src="TestSentence_0.wav" type="audio/mpeg">
+                            Your browser does not support the audio element.
+                        </audio>
+                    </td>
+                    <td>
+                        <audio controls="">
+                            <source src="TestSentence_0.wav" type="audio/mpeg">
+                            Your browser does not support the audio element.
+                        </audio>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="column1">Hallo, ich bin eine neue Stimme.</td>
                     <td>
                         <audio controls="">
                             <source src="TestSentence_0.wav" type="audio/mpeg">
@@ -256,3 +285,4 @@
 
 
 </body>
+</html>
